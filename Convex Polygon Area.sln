@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convex Polygon Area", "Convex Polygon Area.vcxproj", "{1BA0066F-9FA1-4971-8490-10C381C1BBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Debug|x64.ActiveCfg = Debug|x64
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Debug|x64.Build.0 = Debug|x64
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Debug|x86.Build.0 = Debug|Win32
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Release|x64.ActiveCfg = Release|x64
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Release|x64.Build.0 = Release|x64
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Release|x86.ActiveCfg = Release|Win32
+		{1BA0066F-9FA1-4971-8490-10C381C1BBCF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF796AE-2442-49E4-A9FB-B19317FB10D8}
+	EndGlobalSection
+EndGlobal
